@@ -1,6 +1,6 @@
 bottleneck
 keras
-tensorflow==1.15.2
+tensorflow==2.11.1
 numpy
 matplotlib
 opencv-python
